@@ -17,4 +17,4 @@ In a file called extensions.py, implement a program that prompts the user for th
 .zip <br>  <br>
 If the file’s name ends with some other suffix or has no suffix at all, output application/octet-stream instead, which is a common default.
 
-Harvard CS50 Problem Set 1
+- Harvard CS50 Problem Set 1
